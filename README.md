@@ -7,4 +7,4 @@ A chrome extension built with JavaScript that blocks all social media websites
  1. Download a zip file of this repository. 
  2. Follow the Demo below
 
-![Live Demo](https://github.com/eric-asare/goStudy/blob/main/Demo/goStudy-demo.gif"goStudy Demo")
+![Live Demo](https://github.com/eric-asare/goStudy/blob/main/Demo/goStudy-demo.gif)
