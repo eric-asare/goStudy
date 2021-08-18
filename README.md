@@ -6,4 +6,5 @@ A chrome extension built with JavaScript that blocks all social media websites
 
  1. Download a zip file of this repository. 
  2. Follow the Demo below
+
 ![Live Demo](https://ezgif.com/video-to-gif/ezgif-3-eea6d6852f6e.mp4)
