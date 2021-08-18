@@ -1,14 +1,9 @@
-## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-16x16.png "Logo Title Text 1") goStudy ##
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-64x64.png "goStudy Logo") goStudy ##
 ---
-## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-32x32.png "Logo Title Text 1") goStudy ##
----
-## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-128x128.png "Logo Title Text 1") goStudy ##
----
-## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy48x48.png "Logo Title Text 1") goStudy ##
----
-A chrome extension that blocks all social media websites built with JavaScript
+A chrome extension built with JavaScript that blocks all social media websites 
 
-> Love Social Media as I do and cannot get work / studies done? 
+> Love Social Media as I do and cannot get work or studies done? 
 
  1. Download a zip file of this repository. 
- 2. Follow this Demo
+ 2. Follow the Demo below
+![Live Demo](https://ezgif.com/video-to-gif/ezgif-3-eea6d6852f6e.mp4)
