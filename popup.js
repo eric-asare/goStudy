@@ -238,7 +238,7 @@ switch(window.location.hostname){
         document.body.innerHTML = generateHTML("LinkedIn");
         break;
 
-    case "facebook.com":
+    case "web.facebook.com":
         document.head.innerHTML = generateSTYLYING();
         document.body.innerHTML = generateHTML("Facebook");
         break;
@@ -251,6 +251,16 @@ switch(window.location.hostname){
     case "www.reddit.com":
         document.head.innerHTML = generateSTYLYING();
         document.body.innerHTML = generateHTML("Reddit");
+        break;
+       
+    case "www.twitter.com":
+        document.head.innerHTML = generateSTYLYING();
+        document.body.innerHTML = generateHTML("Twitter");
+        break;
+
+     case "www.instagram.com":
+        document.head.innerHTML = generateSTYLYING();
+        document.body.innerHTML = generateHTML("Instagram");
         break;
 
 }
