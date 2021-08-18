@@ -1,4 +1,4 @@
-## ![Logo](https://github.com/eric-asare/goStudy/raw/master/src/common/icons/goStudy-48x48.png "Logo Title Text 1") goStudy ##
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-48x48.png "Logo Title Text 1") goStudy ##
 
 A chrome extension that blocks all social media websites built with JavaScript
 
