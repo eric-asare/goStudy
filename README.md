@@ -1,5 +1,11 @@
-## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-64x64.png "Logo Title Text 1") goStudy ##
-
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-16x16.png "Logo Title Text 1") goStudy ##
+---
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-32x32.png "Logo Title Text 1") goStudy ##
+---
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy-128x128.png "Logo Title Text 1") goStudy ##
+---
+## ![Logo](https://github.com/eric-asare/goStudy/blob/main/icons/goStudy48x48.png "Logo Title Text 1") goStudy ##
+---
 A chrome extension that blocks all social media websites built with JavaScript
 
 > Love Social Media as I do and cannot get work / studies done? 
